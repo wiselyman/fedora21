@@ -15,8 +15,10 @@
 
 # 系统日志
 
+![](https://raw.githubusercontent.com/wiselyman/fedora21/master/resource/cockpit15-log.jpg)
+
 # 网络
-![](https://github.com/wiselyman/fedora21/blob/master/resource/cockpit8-network.jpg)
+![](https://raw.githubusercontent.com/wiselyman/fedora21/master/resource/cockpit8-network.jpg)
 
 # 存储
 ![](https://raw.githubusercontent.com/wiselyman/fedora21/master/resource/cockpit9-storage.jpg)
