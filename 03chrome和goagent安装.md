@@ -55,5 +55,9 @@ WantedBy=multi-user.target
 `systemctl stop goagent.service`
 
 
+# 5 错误
+
+遇到安装错误，请用`yum install 缺少的包名`
+
 
 
