@@ -28,6 +28,7 @@ goagent设置请参照常规设置，请自行搜索。
 
 `cd /etc/systemd/system`
 `vi goagent.service`
+--------------------------------------------------
 
 ```
 [Unit]
@@ -43,10 +44,12 @@ StandardOutput=null
 [Install]
 WantedBy=multi-user.target
 ```
+----------------------------------------------------
 
 `systemctl enable goagent.service`
 
 `systemctl start goagent.service`
+
 
 这时goagent会开机启动了
 
