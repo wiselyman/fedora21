@@ -1,7 +1,9 @@
 # 1 安装chrome
 
 链接: http://pan.baidu.com/s/1c0eY66c 密码: o58b
+
 chrome要求在非root用户下使用。
+
 `sudo yum localinstall google-chrome-stable-39.0.2171.71-1.x86_64.rpm`
 
 
@@ -24,6 +26,7 @@ goagent设置请参照常规设置，请自行搜索。
 # 4 goagent自启动
 
 为了避免每次手动启动goagent，特编制systemd的service。
+
 在root用户下：
 
 `cd /etc/systemd/system`
